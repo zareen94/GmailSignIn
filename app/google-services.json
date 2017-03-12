@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1018818978681",
+    "firebase_url": "https://gmailsignin-c4c7e.firebaseio.com",
+    "project_id": "gmailsignin-c4c7e",
+    "storage_bucket": "gmailsignin-c4c7e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018818978681:android:30f3a2c36186c5ae",
+        "android_client_info": {
+          "package_name": "com.example.yeen.gmailsignin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1018818978681-oqreqvi94m6j7klb7mt8h2pf5c7q5biq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.yeen.gmailsignin",
+            "certificate_hash": "76c07d7d08704fb0ae38bc0ef8ed6b192c99ecdb"
+          }
+        },
+        {
+          "client_id": "1018818978681-ueri02muhka2bcfe6o6ufrk4ehos41dc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCso13PhcPk7H13Zmi_RL9C9QRiCVSfP0o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1018818978681-ueri02muhka2bcfe6o6ufrk4ehos41dc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
